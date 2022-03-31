@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Allex-Lima/JavaScript-nodeJS#readme",
   "dependencies": {
+    "body-parser": "^1.19.2",
     "consign": "^0.1.6",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "nedb": "^1.8.0"
   }
 }
