@@ -1,10 +1,16 @@
-{"name":"Binha","email":"binha@ig.com","password":"@5897","_id":"4vzCDsazR8a9JDKK"}
-{"name":"Julia","email":"julia@ig.com","password":"@5656","ano":"2012","_id":"5y1QmCHqIjIqkorG"}
-{"name":"Binha","email":"binha@ig.com","password":"@5897","idade":"34","_id":"B4dI4a3Iy1McbQj9"}
+{"name":"Julia Maria","email":"juliam@gmail.com","password":"mj1213","_id":"5y1QmCHqIjIqkorG"}
 {"name":"Arthur","email":"arthur@ig.com","password":"@t1215","idade":"34","_id":"JHC6eZsy9QG4YcFP"}
 {"name":"Arthur","email":"arthur@ig.com","password":"@t1215","idade":"34","_id":"T3amF75HHMxBW2Wl"}
-{"name":"Alex","email":"alex@yahoo.com","password":"789456","_id":"TSmQ9UmIVVzqBdfV"}
+{"name":"Arthur","email":"arthur@gmail.com","password":"@4thu4","_id":"VrFMzWtEVm0ZVhyo"}
+{"name":"node","email":"node@gmail.com","password":"node@node","_id":"cdNDzpxRX7LBWBLV"}
 {"name":"Arthur","email":"arthur@ig.com","password":"@t1215","_id":"gUrX5CKsGcaqBCDq"}
-{"name":"Bravo","email":"bravo@ig.com","password":"@4547","age":"23","_id":"gmCZXg2oq1g8pG23"}
+{"name":"Alexandro","email":"alexandro@mail.com","password":"alex8856","_id":"hXlMwT3CTR7zOeKo"}
+{"name":"Raul","email":"raul@gmail.com","password":"@r@ul","info":{"idade":39,"escolaridade":"superior"},"_id":"jVzPyZtk26FvKXfF"}
 {"name":"Binha","email":"binha@ig.com","password":"@5897","_id":"pwCD1CdUyd7vjdmu"}
 {"name":"Hcode","email":"hcode@gmail.com","password":"123456","_id":"qDTPkxB4TfemXyAh"}
+{"$$deleted":true,"_id":"T3amF75HHMxBW2Wl"}
+{"$$deleted":true,"_id":"VrFMzWtEVm0ZVhyo"}
+{"$$deleted":true,"_id":"gUrX5CKsGcaqBCDq"}
+{"$$deleted":true,"_id":"cdNDzpxRX7LBWBLV"}
+{"$$deleted":true,"_id":"qDTPkxB4TfemXyAh"}
+{"$$deleted":true,"_id":"jVzPyZtk26FvKXfF"}
